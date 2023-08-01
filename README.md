@@ -2,7 +2,22 @@
 The objective of forming clusters based on global development measurement data is to uncover meaningful patterns and group countries or regions with similar characteristics or development profiles. Clustering, a technique widely used in data analysis and machine learning, helps partition a dataset into subsets (clusters) based on similarities or distances between data points.
 
 To achieve this objective, several steps are typically undertaken:
-
+     - Read the data
+     - EDA(Exploratory Data Analysis)
+         - Remove symbols
+         - Finding missing value
+         - Detecting skewness
+         - Detecting Outliers - boxplot, Histogram
+         - Imputations like mean, median
+         - Correlation - Heatmap
+         - Visualization based on the target variable - Barplot
+      - Hopkins test
+      - MinMax Standardization
+      - Agglomerative clustering- with and without PCA
+      - kmean - with and without PCA
+      - Training and testing 
+      - Random forest
+- 
 - ## Data preprocessing:
   Basic analysis is performed to gain an understanding of the data, such as describing the dataset, handling missing values by filling them appropriately, removing symbols or unnecessary characters, and dropping irrelevant columns. Outliers may also be detected and addressed.
 
