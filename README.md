@@ -3,7 +3,6 @@ The objective of forming clusters based on global development measurement data i
 
 To achieve this objective, several steps are typically undertaken:
      - Read the data
-     
      - EDA(Exploratory Data Analysis)
          - Remove symbols
          - Finding missing value
