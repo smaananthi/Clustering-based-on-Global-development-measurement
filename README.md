@@ -3,6 +3,7 @@ The objective of forming clusters based on global development measurement data i
 
 To achieve this objective, several steps are typically undertaken:
      - Read the data
+     
      - EDA(Exploratory Data Analysis)
          - Remove symbols
          - Finding missing value
@@ -17,7 +18,7 @@ To achieve this objective, several steps are typically undertaken:
       - kmean - with and without PCA
       - Training and testing 
       - Random forest
-- 
+
 - ## Data preprocessing:
   Basic analysis is performed to gain an understanding of the data, such as describing the dataset, handling missing values by filling them appropriately, removing symbols or unnecessary characters, and dropping irrelevant columns. Outliers may also be detected and addressed.
 
